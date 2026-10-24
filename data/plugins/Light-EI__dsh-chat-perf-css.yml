@@ -1,0 +1,7 @@
+url: https://github.com/Light-EI/dsh-chat-perf-css
+name: Light-EI/dsh-chat-perf-css
+category: ui
+tarball: https://github.com/Light-EI/dsh-chat-perf-css/releases/latest/download/dsh-chat-perf-css.tgz
+description:
+  en: 'Applies content-visibility: auto to off-screen message bodies and block formulas, so the browser skips their style, layout and paint work while a long conversation scrolls.'
+  zh: '给屏幕外的消息体与块级公式加 content-visibility: auto，让浏览器跳过它们的样式、布局与绘制，长会话滚动时开销更小。'
